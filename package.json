@@ -1,0 +1,19 @@
+{
+  "name": "victory-error-bars",
+  "version": "0.0.1",
+  "description": "error bars component for victory",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boygirl/victory-error-bars.git"
+  },
+  "author": "Lauren Eastridge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boygirl/victory-error-bars/issues"
+  },
+  "homepage": "https://github.com/boygirl/victory-error-bars",
+  "scripts": {
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
